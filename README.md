@@ -1,4 +1,3 @@
-% Language: MATLAB
 # Analysis-of-Power-System
 <h4>This repository contains MATLAB codes for power system analysis. The codes provided here are focused on various aspects of power system analysis, including Y-Bus construction, Y-Bus reduction, load flow analysis using Gauss-Seidel and Newton-Raphson methods, fault analysis of alternator, and phase sequences of unbalanced systems.</h4>
 
