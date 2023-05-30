@@ -11,7 +11,7 @@
 
 
 <h2>License</h2>
-This repository is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) License. Please see the LICENSE file for more details.
+This repository is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) License. Please see the [LICENSE](LICENSE) file for more information.
 
 <h2>Acknowledgments</h2>
 We would like to acknowledge the contributions of the research community in the field of power system analysis, whose work has provided valuable insights and inspirations for the development of these MATLAB codes.
