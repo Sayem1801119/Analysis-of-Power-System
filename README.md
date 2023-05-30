@@ -10,7 +10,7 @@
 6. Phase Sequences of Unbalanced Systems: MATLAB code to determine the phase sequences of an unbalanced power system.</br>
 
 
-<h2>License</h2>
+## License
 This repository is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) License. Please see the [LICENSE](LICENSE) file for more information.
 
 <h2>Acknowledgments</h2>
