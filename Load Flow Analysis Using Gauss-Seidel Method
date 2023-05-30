@@ -22,9 +22,6 @@ File2=input('Please input the file2','s');
 cd(Directory)
 A=xlsread(File1)
 B=xlsread(File2)
-cd('E:\Semester\Semester 3_2\Sessionals\Power System I\Simulation Files')
- A=xlsread('Final3212_1.xlsx')
- B=xlsread('Final3212_2.xlsx')
  Length=size(A,1);
  NB=max(max(A));
  tol=0.00000000001;
