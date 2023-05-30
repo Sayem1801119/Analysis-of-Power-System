@@ -17,7 +17,7 @@ Sui Generis Database Rights means rights other than copyright resulting from Dir
 You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
 
 
-##Section 2 – Scope.
+## Section 2 – Scope.
 
 License grant.
 Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
